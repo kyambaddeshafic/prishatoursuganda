@@ -1,0 +1,120 @@
+
+@media (max-width: 480px) {
+
+.lgDevice{
+    display: none;
+}
+
+/*nav start*/
+.brandHeadericon{
+    height: 40px;
+}
+
+
+/*nav end*/
+
+
+/*landing start*/
+.landing{
+height: 75%;
+}
+
+.lgLandingImg{
+    height: 20rem;
+    object-fit: cover;
+
+}
+
+.travelWithSm{
+    padding-bottom: 2em;
+}
+
+
+.landingCaption{
+height: 15%;
+background-color: rgb(179, 218, 179);
+}
+
+.upcomingCard{
+    height: 19rem;
+    object-fit: cover;
+    margin: 3em;
+
+}
+
+.landingImgUpcoming{
+    height: 14em;
+
+}
+
+
+
+/*landing end*/
+
+/*
+.carouselCaption{
+}*/
+
+.landingTab{
+    margin-left: 0em;
+    margin-right: 0em;
+    margin-top: 0em;
+    margin-bottom: 2em;
+
+
+
+}
+
+.landingTableUpcoming{
+width: 98%;
+margin-left: 2%;
+}
+
+.landingGetQuote{
+width: 90%;
+border-radius: 3%;
+}
+
+.reviewPic{
+height: 125px;
+}
+
+.reviewText{
+width: 90%;
+margin-top: 30px;
+}
+
+.landingSubscribeForm{
+padding: 10px;
+border-radius: 3%;
+}
+
+.footerHr{
+margin: 0;
+}
+
+.footerHeading{
+margin-top: 10px;
+}
+
+.bookingGetQuote{
+    width: 90%;
+    border-radius: 3%;
+    margin-top: 2em;
+
+    }
+
+
+
+
+.whatsAppIconImg{
+    margin-bottom: 25%;
+    width: 3rem;
+    margin-left: 1rem;
+    position: fixed;
+    z-index: 100
+}
+
+}
+
+

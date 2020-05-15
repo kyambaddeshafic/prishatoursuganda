@@ -1,0 +1,137 @@
+
+@media (min-width: 480px) { 
+
+
+    .smDevice{
+        display: none;
+    }
+
+    /*nav start*/
+.brandHeadericon{
+    height: 40px;
+}
+
+
+.lgLandingImg{
+    height: 35rem;
+    object-fit: cover;
+
+}
+
+.landingCaption{
+    background-color: rgb(179, 218, 179);
+}
+
+.landingTab{
+    width: 55%;
+    background-image: url(../images/gallery/cutebirds.jpg);  object-fit: cover;
+}
+
+
+.travelWithCard{
+    margin: 3em;
+
+}
+
+.travelWithImg{
+    height: 15em;
+}
+
+.upcomingCard{
+    margin: 3em;
+}
+
+.landingImgUpcoming{
+    height: 15em;
+
+}
+
+.landingTableUpcoming{
+    width: 75%;
+    margin-left: 8%;
+    margin-bottom: 1em;
+
+
+    }
+
+.landingGetQuote{
+    width: 60%;
+    border-radius: 2%;
+}
+.landingGetQuoteIcon{
+    margin-left: 20em;
+}
+
+.landingReviewHr{
+    width: 80em;
+}
+
+.reviewsCard{
+    margin: 1em;
+}
+.landingSubscribeForm{
+    padding: 10px;
+    border-radius: 2%;
+    width: 50%;
+    margin-left: 25%;
+}
+.legalLinks{
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+.footerRow{
+    width: 80%;
+    margin-left: 10%;
+
+}
+
+}
+
+
+.tripObj{
+    margin-top: 5em;
+}
+
+.tabLandingImg{
+    height: 17rem;
+    object-fit: cover;
+}
+
+.payObj{
+    margin-top: 5em;
+}
+
+.bookingGetQuote{
+    width: 60%;
+    border-radius: 2%;
+    margin-top: 2em;
+}
+
+.transportMeans{
+    width: 57%;
+}
+
+footer{
+
+    background-color: rgb(179, 218, 179);
+
+
+}
+
+.legalLayout{
+    padding-left: 7em;
+    padding-right: 7em;
+    padding-top: 3em;
+
+
+}
+
+.whatsAppIconImg{
+    width: 5rem;
+    margin-bottom: 8rem;
+    margin-left: 1rem;
+    position: fixed;
+    z-index: 100
+    
+}
