@@ -50,6 +50,12 @@ footer{
     margin-bottom: 0em;
 }
 
+.landingReview{
+    background-color: rgb(245, 245, 215);
+
+}
+
+
 .landingReview .fas {
     color: green !important;
 }
@@ -83,4 +89,15 @@ footer{
 
 body{
     z-index: -1;
+}
+
+
+.travelwithUs{
+    background-color: rgb(245, 245, 215);
+}
+
+
+.ourDestinations{
+    background-color: rgb(245, 245, 215);
+
 }

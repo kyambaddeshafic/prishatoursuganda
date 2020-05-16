@@ -29,22 +29,45 @@
 
 
 .travelWithCard{
-    margin: 3em;
+    margin: 0em;
 
 }
 
-.travelWithImg{
-    height: 15em;
-}
+
 
 .upcomingCard{
-    margin: 1rem;
+    margin: 0rem;
 }
 
-.landingImgUpcoming{
-    height: 15em;
+
+
+
+
+
+
+@media (min-width: 1200px){
+    .landingImgUpcoming{
+        height: 15rem;
+    
+    }
+    .travelWithImg{
+        height: 15rem;
+    }
 
 }
+
+@media (max-width: 1200px){
+    .landingImgUpcoming{
+        height: 10rem;
+    
+    }
+    .travelWithImg{
+        height: 10rem;
+    }
+
+}
+
+
 
 .landingTableUpcoming{
     width: 75%;
@@ -63,11 +86,11 @@
 }
 
 .landingReviewHr{
-    width: 80em;
+    width: 90%;
 }
 
 .reviewsCard{
-    margin: 1em;
+    margin: 0.5em;
 }
 .landingSubscribeForm{
     padding: 10px;
@@ -86,7 +109,7 @@
 
 }
 
-}
+
 
 
 .tripObj{
@@ -128,11 +151,88 @@ footer{
 
 }
 
-.whatsAppIconImg{
-    width: 5rem;
-    margin-bottom: 8rem;
-    margin-left: 1rem;
-    position: fixed;
-    z-index: 100
-    
+
+
+
+
+
+
+
+
+
+@media (min-height: 800px){
+
+    .noShortShowImg{
+        display: none;
+    }
+
+    .whatsAppIconImg{
+        width: 5rem;
+        margin-bottom: 8rem;
+        margin-left: 1rem;
+        position: fixed;
+        z-index: 100
+        
+    }
+
+}
+
+
+
+
+@media (max-height: 800px){
+
+    .noShowImg{
+        display: none;
+    }
+
+    .whatsAppIconImg{
+        width: 5rem;
+        margin-top: 24rem;
+        margin-left: 1rem;
+        position: fixed;
+        z-index: 100
+        
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
